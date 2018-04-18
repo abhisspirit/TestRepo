@@ -3,3 +3,4 @@ Test Remote msg
 Test remote commit
 test reset commit
 test test
+test remote changes
