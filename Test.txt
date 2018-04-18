@@ -5,3 +5,4 @@ test reset commit
 test
 test local changes
 test remote changes
+test sourcetree changes
