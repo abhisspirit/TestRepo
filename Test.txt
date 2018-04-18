@@ -4,3 +4,4 @@ Test remote commit
 test reset commit
 test
 test local changes
+test remote changes
